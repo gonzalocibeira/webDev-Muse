@@ -6,7 +6,7 @@ export default function Footer() {
         <footer>
             <div className="footerDiv">
                 <img src={nika} alt="Sraw Hat Icon" className="footerIcon"/>
-                <span>Developed by Gonzalo Cibeira - 2022</span>
+                <span>Developed by Gonzalo Cibeira & Leandro Giffoni - 2023</span>
             </div>
         </footer>
     )

@@ -6,8 +6,8 @@ import Navitem from "./Navitem"
 export default function Navbar() {
 
     const categories = [
-        {id:0, name:"Nav1", route:"/"},
-        {id:1, name:"Nav2", route:"/"}
+        {id:0, name:"Home", route:"/"},
+        {id:1, name:"Admin", route:"/"}
     ]
 
 
